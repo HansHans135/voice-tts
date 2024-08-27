@@ -7,7 +7,11 @@
 
 - google
 
+https://github.com/HansHans135/voice-tts/blob/main/video/google.mp4
+
 - elevenlabs
+
+https://github.com/HansHans135/voice-tts/blob/main/video/elevenlabs.mp4
 
 # 配置
 打開`.env`
